@@ -1,2 +1,2 @@
 # pet-shop-tutorial
-Web3 app - Dapp using truffle.
+Developing a Web3 Application using Truffle.
